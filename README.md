@@ -5,6 +5,22 @@
   <img src="https://img.shields.io/badge/solved.ac-1F8ACB?style=flat-square&logo=solvedac&logoColor=white" />
 </p>
 
+## 🚀 Projects
+
+| 출시 | 프로젝트 | 소개 | 링크 |
+|------|----------|------|------|
+
+
+---
+
+## 🎯 Activity
+
+| 기간 | 활동 | 기수 |
+|------|------|------|
+
+
+---
+
 ---
 
 ## 🍎 Blog & Algorithm Archive
