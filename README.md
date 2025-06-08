@@ -11,9 +11,10 @@
 
 | 출시 | 프로젝트 | 소개 | 링크 |
 |------|----------|------|------|
-| 2024.12 | 📱 모바일 앱 서비스 | Spring Boot 기반 백엔드 API 개발 | [GitHub](https://github.com/HyunSubb/project1) |
-| 2024.10 | 🌐 웹 서비스 플랫폼 | JavaScript와 MySQL을 활용한 풀스택 개발 | [GitHub](https://github.com/HyunSubb/project2) \| [Demo](https://demo-link.com) |
-| 2024.08 | 📊 데이터 분석 도구 | Java 기반 알고리즘 최적화 프로젝트 | [GitHub](https://github.com/HyunSubb/project3) |
+|  |  |  |
+|  |  |  |
+
+| |  |  | |
 
 ---
 
@@ -72,17 +73,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
-## ✨ Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HyunSubb&theme=tokyonight&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<div align="center">
-  
-**"코드로 문제를 해결하고, 문서로 지식을 공유합니다"** 📝
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunSubb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
