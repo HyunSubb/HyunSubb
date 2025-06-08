@@ -1,82 +1,56 @@
-## Hi there 👋
-
-<!--
-**HyunSubb/HyunSubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 상단 배너 이미지 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c3c3c,100:0d1117&height=200&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Welcome%20to%20HyunSubb's%20GitHub&descAlignY=60&descAlign=65" />
-</div>
-
-<br/>
-
-<!-- 소개 및 간단 설명 -->
-<div align="center">
-
-👋 안녕하세요! 저는 **백엔드 개발자 지망생**이며 Java와 Spring Boot 기반으로 웹 개발을 공부하고 있습니다.  
-꾸준히 기록하고 성장하는 개발자를 지향합니다. 😊  
-
-<!-- 상단 배너 그대로 유지 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c3c3c,100:0d1117&height=200&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Welcome%20to%20HyunSubb's%20GitHub&descAlignY=60&descAlign=65" />
-</div>
-
-<br/>
-
-<!-- 소개글은 그대로 중앙정렬 -->
-<div align="center">
-👋 안녕하세요! 저는 **백엔드 개발자 지망생**이며 Java와 Spring Boot 기반으로 웹 개발을 공부하고 있습니다.  
-꾸준히 기록하고 성장하는 개발자를 지향합니다. 😊  
-</div>
+<!-- 상단 이름 및 아이콘 -->
+<h1 align="center">🐣 Hyun Subb 🐣</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/solved.ac-1F8ACB?style=flat-square&logo=solvedac&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Tech Stacks  
-사용해본 기술들을 아래와 같이 정리했어요!
+## 🍎 Blog & Algorithm Archive
 
-<div style="text-align: left;">
-
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white" />
-
-</div>
+- 🍏 [Devlog (Tistory)](https://tnempoleved-diary.tistory.com/)
+- 🍊 [Algorithm Note](https://tnempoleved-diary.tistory.com/category/알고리즘)
 
 ---
 
-## 🧑‍💻 Contact Me
+## 📊 GitHub Stats
 
-<div style="text-align: left;">
-
-<a href="https://tnempoleved-diary.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyunSubb&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyunSubb&theme=github_dark" />
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyunSubb&theme=github_dark&utcOffset=9" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏅 Stats
+## 💻 Most Used Languages
 
-<div align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HyunSubb&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HyunSubb&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=HyunSubb&show_icons=true&theme=react&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunSubb&layout=compact&theme=react&hide_border=true" />
+---
 
-</div>
+## 🛠 Once I've Used
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## ✨ Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HyunSubb&theme=tokyonight&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
