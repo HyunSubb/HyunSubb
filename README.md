@@ -25,13 +25,6 @@
 
 ---
 
-## 📝 Tech Writing & Documentation
-
-서비스 개발과 함께 기술 문서 작성에도 집중하고 있습니다. 
-개발 과정에서 얻은 인사이트와 문제 해결 과정을 체계적으로 정리하여 공유합니다.
-
----
-
 ## 🍎 Blog & Algorithm Archive
 
 - 🍏 [Devlog (Tistory)](https://tnempoleved-diary.tistory.com/)
