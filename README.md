@@ -27,14 +27,25 @@ Here are some ideas to get you started:
 👋 안녕하세요! 저는 **백엔드 개발자 지망생**이며 Java와 Spring Boot 기반으로 웹 개발을 공부하고 있습니다.  
 꾸준히 기록하고 성장하는 개발자를 지향합니다. 😊  
 
+<!-- 상단 배너 그대로 유지 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c3c3c,100:0d1117&height=200&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Welcome%20to%20HyunSubb's%20GitHub&descAlignY=60&descAlign=65" />
+</div>
+
+<br/>
+
+<!-- 소개글은 그대로 중앙정렬 -->
+<div align="center">
+👋 안녕하세요! 저는 **백엔드 개발자 지망생**이며 Java와 Spring Boot 기반으로 웹 개발을 공부하고 있습니다.  
+꾸준히 기록하고 성장하는 개발자를 지향합니다. 😊  
 </div>
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stacks  
 사용해본 기술들을 아래와 같이 정리했어요!
 
-<div align="center">
+<div style="text-align: left;">
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
@@ -50,7 +61,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 Contact Me
 
-<div align="center">
+<div style="text-align: left;">
 
 <a href="https://tnempoleved-diary.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
@@ -62,11 +73,10 @@ Here are some ideas to get you started:
 
 ## 🏅 Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HyunSubb&show_icons=true&theme=react&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunSubb&layout=compact&theme=react&hide_border=true" />
 
 </div>
 
-    
