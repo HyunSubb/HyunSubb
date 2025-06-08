@@ -36,8 +36,6 @@
 ## 🍎 Blog & Algorithm Archive
 
 - 🍏 [Devlog (Tistory)](https://tnempoleved-diary.tistory.com/)
-- 🍊 [Algorithm Note](https://tnempoleved-diary.tistory.com/category/알고리즘)
-- 📚 [Tech Documentation](https://tnempoleved-diary.tistory.com/category/기술문서)
 
 ---
 
@@ -70,6 +68,5 @@
 **Tools & Environment**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
