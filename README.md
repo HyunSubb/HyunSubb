@@ -68,4 +68,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor 
 ---
