@@ -1,8 +1,20 @@
-<h1 align="center">🐣 Hyun Subb 🐣</h1>
+<h1 align="center">Hyun Subb</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/solved.ac-1F8ACB?style=flat-square&logo=solvedac&logoColor=white" />
+  Backend Developer | Cloud & DevOps Enthusiast
 </p>
+
+<p align="center">
+  <a href="https://github.com/HyunSubb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.acmicpc.net/user/HyunSubb" target="_blank">
+    <img src="https://img.shields.io/badge/solved.ac-1F8ACB?style=for-the-badge&logo=solvedac&logoColor=white" alt="Solved.ac" />
+  </a>
+  <a href="https://tnempoleved-diary.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog" />
+  </a>
+  </p>
 
 ---
 
@@ -12,7 +24,9 @@
 |------|------|------|
 | 2024.07 ~ 2024.08 | 💻 NHN 아카데미 JavaClassic | 3기 |
 | 2024.09 ~ 2025.06 | 🔥 NHN 아카데미 AIoT JavaBackEnd | 2기 |
-| 2025.07 ~ 현재 | ☁️ **클라우드 기반 Spring 운영 서버 배포 학습 (Docker, Kubernetes, EKS)** | - |
+| 2025.06.24 ~ 2025.06.29 | 🔑 **OAuth2 인증/인가 시스템 구현 연구** | Spring Security와 OAuth2를 활용한 사용자 인증 및 권한 관리 시스템 학습 |
+| 2025.07.02 ~ 2025.07.07 | ⚙️ **마이크로서비스 아키텍처 (MSA) 구현 연구** | Spring Cloud 기반 MSA 설계 및 서비스 간 통신, 분산 환경 구성 학습 |
+| 2025.07.07 ~ 현재 | ☁️ **클라우드 기반 Spring 운영 서버 배포 학습 (Docker, Kubernetes, EKS)** | - |
 
 ---
 
