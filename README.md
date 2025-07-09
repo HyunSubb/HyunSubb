@@ -1,11 +1,5 @@
 <h1 align="center">Hyun Subb</h1>
 
-<p align="center">
-  <a href="https://tnempoleved-diary.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog" />
-  </a>
-  </p>
-
 ---
 
 ## 🎯 Activity
