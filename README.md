@@ -1,4 +1,3 @@
-<!-- 상단 이름 및 아이콘 -->
 <h1 align="center">🐣 Hyun Subb 🐣</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -13,6 +12,7 @@
 |------|------|------|
 | 2024.07 ~ 2024.08 | 💻 NHN 아카데미 JavaClassic | 3기 |
 | 2024.09 ~ 2025.06 | 🔥 NHN 아카데미 AIoT JavaBackEnd | 2기 |
+| 2025.07 ~ 현재 | ☁️ **클라우드 기반 Spring 운영 서버 배포 학습 (Docker, Kubernetes, EKS)** | - |
 
 ---
 
@@ -65,4 +65,3 @@
 **Tools & Environment**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
