@@ -21,7 +21,7 @@
 | 프로젝트 | 소개 | 링크 |
 |----------|------|------|
 |스마트 오피스 AIoT 시스템|AI + IoT 기반의 스마트 오피스 시스템 구축 프로젝트|https://github.com/Pangyo-Coffee-Legends|
-|글모아 프로젝트|여러 커뮤니티의 인기 글들을 한눈에 보는 서비스|[https://www.glemoa.shop](https://github.com/Glemoa)|
+|글모아 프로젝트|여러 커뮤니티의 인기 글들을 한눈에 보는 서비스|https://github.com/Glemoa|
 
 ---
 
